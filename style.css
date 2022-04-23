@@ -1,0 +1,37 @@
+#para1{
+    text-align: center;
+}
+#imagery{
+    background-color: white;
+    color: black;
+}
+#Contact{
+            background-color:rgb(112, 212, 223);
+            color: rgb(12, 12, 92);
+}
+#firstjob{
+    background-color: rgb(91, 173, 198);
+    color: aliceblue;
+}
+#secondjob{
+    background-color: rgb(66, 98, 134);
+    color: white;
+}
+#thirdjob{
+    background-color: rgb(54, 81, 101);
+    color: white;
+}
+.edu{
+    background-color: rgb(40, 58, 120);
+    color: white;
+}
+#cert{
+    background-color: rgb(35, 31, 90);
+    color: white;
+}
+.davita{
+    color: white;
+}
+div, p, h1, h2, h3{
+    text-align: center;
+}
